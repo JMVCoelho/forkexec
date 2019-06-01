@@ -7,7 +7,7 @@ Distributed Systems 2018-2019, 2nd semester project
 ## Part 2 details
 
 The goal of this part was to make _pts_ fault-tolerant.  
-Check _doc/GuiaDemonstracao.pdf_ for a guide on how to check the actual fault-tolerance model working.  
+Check _doc/GuiaDemonstracao.pdf_ for a guide on how to see the actual fault-tolerance model working.  
 Check _doc/Relatorio.pdf_ for a report describing the implementation of the fault-tolerance model, as well as some optimizations.  
 
 
