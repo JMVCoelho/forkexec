@@ -22,11 +22,12 @@ The system is divided in 3 main modules:
 1- Hub: Works as an intermediary between users and back-end.   
 
 2- Restaurants: Provides a local server for each restaurant so that its information can be managed.  
+
 3- Points: Mantains accounts and respective balances (in 'pontos-comes').  
 
 There is also a 4th module, CreditCard, that allows the hub to validate credit card details before buying 'pontos-comes'. (This was already implemented)  
 
-An UDDI server was used for restaurants to register themselves and fot the Hub to look for restaurants.  
+An UDDI server was used for restaurants to register themselves and for the Hub to look for restaurants.  
 
 
 This project was divided in two parts.  
